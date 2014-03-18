@@ -9,7 +9,7 @@
  * @copyright  (c) 2009 Woody Gilk
  * @license    MIT
  */
-abstract class View_mPDF_Core extends View {
+abstract class View_MPDF_Core extends View {
 
 	protected $mpdf = NULL;
 	protected $view_file = NULL;

@@ -8,4 +8,4 @@
  * @copyright  (c) 2009 Woody Gilk
  * @license    MIT
  */
-class View_mPDF extends View_mPDF_Core {}
+class View_MPDF extends View_MPDF_Core {}
